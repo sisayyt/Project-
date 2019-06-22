@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Dallas Safety</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>body {background-color: rgb(14, 87, 69);}</style>
+  <!-- <style>
+    #example1 {
+      border: 2px solid black;
+      padding: 25px;
+      background: url(fingerprint.jpg);
+      background-repeat: no-repeat;
+      background-size: auto;
+    }</style> -->
+</head>
+
+<body>
+  <div clas="container">
+    <div class="jumbotron text-center">
+      <h1>Dallas Crime vs Home Value Comparison</h1>
+      </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>SELECT City:</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">City Data</h3>
+          </div>
+          <div id="city-sample" class="panel-body"></div>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div id="bar"></div>
+    </div>
+  </div>
+  
+
+  <!-- <script src="https://cdn.plot.ly/plotly-1.31.2.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
+  <script src="/static/js/app.js"></script>
