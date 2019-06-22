@@ -24,16 +24,14 @@ function buildCharts(city) {
 
     // @TODO: Build a Chart using the sample data
     const city = data[0].city;
-    const crimetype = data[0].type;
+    const crimetype = data[8].type;
     const year = ["2010","2011","2012","2013","2014","2015","2016"]
-    const yearValues = [data[0]["2010"],data[0]["2011"],data[0]["2012"],data[0]["2013"],data[0]["2014"],data[0]["2015"],data[0]["2016"]]
+    const yearValues = [data[8]["2010"],data[8]["2011"],data[8]["2012"],data[8]["2013"],data[8]["2014"],data[8]["2015"],data[8]["2016"]]
 
     var bardata = [{
       name: city,
       x: year,
       y: yearValues,
-      //data.map(row => row.["2016"]),
-      //text: data.map(row => row.type),
       type: 'bar',
       //hovertext: otu_labels.slice(0,10),
       //hoverinfo: "hovertext",
