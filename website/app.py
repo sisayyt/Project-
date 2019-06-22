@@ -8,9 +8,11 @@ app.config['MONGO_URI'] = 'mongodb://localhost:27017/citydata'
 
 mongo = PyMongo(app)
 
+
+
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('indexMaster.html')
 
 
 @app.route('/cityPop')
