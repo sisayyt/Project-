@@ -1,1815 +1,5933 @@
 {
    "type": "FeatureCollection",
    "features": [
- {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.795879,32.741481 ]
-    },
-    "properties": {
-    "FIELD1":3,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Dallas",
-    "County":"Dallas",
-    "Address":"008xx BEACONST",
-    "Direction":"",
-    "Zip Code":75203
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.684525,32.702531 ]
-    },
-    "properties": {
-    "FIELD1":5,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Dallas",
-    "County":"Dallas",
-    "Address":"004xx PLEASANTDR",
-    "Direction":"",
-    "Zip Code":75217
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.811912,32.928673 ]
-    },
-    "properties": {
-    "FIELD1":337,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"13247 MONTFORTDR",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":363,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"080xx CEDARSPRINGSRD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":527,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"081xx STEMMONSFRWY",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":597,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"117xx FERGUSONRD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":611,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"100xx GLENRIOLN",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.759244,32.778308 ]
-    },
-    "properties": {
-    "FIELD1":645,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"3839 FITZHUGHAVE",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":651,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"030xx ROSSAVE",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":657,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"8750 AUTOBAHNDR",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":664,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"15534 ELESTADODR",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":666,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"1300 ZANGBLVD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":669,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"1818 FIRSTAVE",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.771791,32.978341 ]
-    },
-    "properties": {
-    "FIELD1":670,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"7517 CAMPBELLRD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":695,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"17811 VAILST",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":716,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"4543 CATINALN",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":745,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"2810 SAMUELLBLVD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":792,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"014xx MAINST",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":794,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"8787 STEMMONSFRWY",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":818,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"8060 PARKLN",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":836,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"13350 DALLASNORTHPKW",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":858,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"1300 ROBERTBCULLUMB",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":865,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"8150 CENTRALEXPWY",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":866,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"2230 LBJFRWY",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":877,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"045Withheld TRINITYMILLSRD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":882,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"2508 MAPLEAVE",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":968,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"027xx MLKINGJRBLVD",
-    "Direction":"",
-    "Zip Code":75001
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.777626,32.767268 ]
-    },
-    "properties": {
-    "FIELD1":969,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"3102 OAKLAWNAVE",
-    "Direction":"",
-    "Zip Code":75011
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.80334,32.946819 ]
-    },
-    "properties": {
-    "FIELD1":1033,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"039xx CEDARSPRINGSRD",
-    "Direction":"",
-    "Zip Code":75254
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.784083,32.836406 ]
-    },
-    "properties": {
-    "FIELD1":1038,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"3230 MOCKINGBIRDLN",
-    "Direction":"",
-    "Zip Code": 75254
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":1040,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"026xx MCKINNEYAVE",
-    "Direction":"",
-    "Zip Code":75019
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.82917,32.96179 ]
-    },
-    "properties": {
-    "FIELD1":1044,
-    "Offense Description":"THEFT",
-    "City":"Addison",
-    "County":"Dallas",
-    "Address":"1359 WALTONWALKERBL",
-    "Direction":"",
-    "Zip Code":75254
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.684525,32.702531 ]
-    },
-    "properties": {
-    "FIELD1":1829,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"9633 OLDSEAGOVILLE",
-    "Direction":"",
-    "Zip Code":75217
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1830,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"029xx HOLMESST",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1831,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"013xx SLEEPYHOLLOWDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1832,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"111xx LAKEHIGHLANDSD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1839,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"033xx PLEASANTDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1845,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"004xx MASTERSDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1849,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"108xx ELAMRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1850,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"1331 JIMMILLERRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1853,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"046xx STFRANCISAVE",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1855,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"2527 ANZIODR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1859,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"6300 LAKEJUNERD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.651594,32.70296 ]
-    },
-    "properties": {
-    "FIELD1":1862,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"10014 EVERTONPL",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1865,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"034xx FROSTYTR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1872,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"13953 CFHAWNFRWY",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1882,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"7767 GREATTRINITYFO",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.622984,32.734288 ]
-    },
-    "properties": {
-    "FIELD1":1885,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"LAKEJUNE MASTERS",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1886,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"101xx LAKEJUNERD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1888,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"650 HOLCOMBRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1895,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"031xx EASTERAVE",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.564919,32.727857 ]
-    },
-    "properties": {
-    "FIELD1":1896,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"143xx SKYFROSTDR",
-    "Direction":"",
-    "Zip Code":75181
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.383966,30.062169 ]
-    },
-    "properties": {
-    "FIELD1":1901,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"130xx JUPITERRD",
-    "Direction":"",
-    "Zip Code":75181
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.383966,30.062169 ]
-    },
-    "properties": {
-    "FIELD1":1902,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"803 RAYENELLAVE",
-    "Direction":"",
-    "Zip Code":75181
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.013569,29.62579 ]
-    },
-    "properties": {
-    "FIELD1":1903,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"3109 CARLISLEST",
-    "Direction":"",
-    "Zip Code":75181
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.630277,32.817309 ]
-    },
-    "properties": {
-    "FIELD1":1909,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"034xx BUCKNERBLVD",
-    "Direction":"",
-    "Zip Code":75150
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1913,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"032xx WILBARGERDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1915,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"1825 CALIFORNIACROS",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.805369,32.958351 ]
-    },
-    "properties": {
-    "FIELD1":1918,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"15301 PRESTONRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.942614,32.953097 ]
-    },
-    "properties": {
-    "FIELD1":1923,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"1780 BELTLINERD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1925,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"016xx MASTERSDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1934,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"005xx CHEYENNERD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1935,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"2263 NANTUCKETVILLA",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1936,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"100xx LBJFRWY",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1937,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"7109 MILITARYPKWY",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1940,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"9540 LAKEJUNERD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1949,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"097xx ROYCEDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1950,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"075xx WESTMORELANDRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1953,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"10326 FINNELLST",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1959,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"094xx HOMEPLACEDR",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1961,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"069xx COCKRELLHILLRD",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.615271,32.721225 ]
-    },
-    "properties": {
-    "FIELD1":1979,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"059xx LAMARST",
-    "Direction":"",
-    "Zip Code":75180
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.684525,32.702531 ]
-    },
-    "properties": {
-    "FIELD1":1994,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"2900 BUCKNERBLVD",
-    "Direction":"",
-    "Zip Code":75217
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.703785,32.79488 ]
-    },
-    "properties": {
-    "FIELD1":1999,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"8035 RLTHORNTONFRWY",
-    "Direction":"",
-    "Zip Code":75228
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.60847,32.672132 ]
-    },
-    "properties": {
-    "FIELD1":2000,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"002xx MARKETST",
-    "Direction":"",
-    "Zip Code":75253
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.383966,30.062169 ]
-    },
-    "properties": {
-    "FIELD1":2008,
-    "Offense Description":"THEFT",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"2400 DOWDYFERRYRD",
-    "Direction":"",
-    "Zip Code":75253
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -95.383966,30.062169 ]
-    },
-    "properties": {
-    "FIELD1":2009,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Balch Springs",
-    "County":"Dallas",
-    "Address":"007xx MARSALISAVE",
-    "Direction":"",
-    "Zip Code":75253
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2184,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"078xx CLODUSFIELDSDR",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2188,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"107xx SPANGLERRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2191,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"704 WALTONWALKERBL",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2194,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"4500 COLUMBIAAVE",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.785643,32.818971 ]
-    },
-    "properties": {
-    "FIELD1":2208,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"5118 PERSHINGST",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2209,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"028xx ROYALLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2216,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"1700 SYLVANAVE",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2224,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"2200 STEMMONSFRWY",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.799219,32.998886 ]
-    },
-    "properties": {
-    "FIELD1":2225,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"18101 PRESTONRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2228,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"069xx FRANKFORDRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2230,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"3142 ROYALGABLEDR",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.852389,33.002363 ]
-    },
-    "properties": {
-    "FIELD1":2240,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"3600 TIMBERGLENRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2241,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"10409 SANDENDR",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2244,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"304 RECORDST",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.87927,33.035217 ]
-    },
-    "properties": {
-    "FIELD1":2246,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"11529 EMERALDST",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2254,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"001xx NINTHST",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2257,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"025xx MAPLEAVE",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2258,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"2170 NORTHWESTHWY",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2262,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"8430 ABRAMSRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2264,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"115xx KLEBERGRD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2269,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"3344 FORESTLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2271,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"180xx MARSHLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2277,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"078xx MCCALLUMBLVD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2278,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"9301 FORESTLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2287,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"10106 TECHNOLOGYBLVD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2290,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"2903 ROYALLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2292,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"10625 HARRYHINESBLVD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2295,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"122xx PLANORD",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2296,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"2201 STEMMONSFRWY",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2311,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"019xx MEDICALDISTRIC",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2313,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"8190 PARKLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2316,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"13419 KITLN",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.89817,32.962473 ]
-    },
-    "properties": {
-    "FIELD1":2326,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"002xx PEMBERTONHILLR",
-    "Direction":"",
-    "Zip Code":75006
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.895893,33.007436 ]
-    },
-    "properties": {
-    "FIELD1":2342,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"180xx MARSHLN",
-    "Direction":"",
-    "Zip Code":75007
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.895893,33.007436 ]
-    },
-    "properties": {
-    "FIELD1":2347,
-    "Offense Description":"THEFT",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"3565 FRANKFORDRD",
-    "Direction":"",
-    "Zip Code":75007
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ -96.895893,33.007436 ]
-    },
-    "properties": {
-    "FIELD1":2348,
-    "Offense Description":"AGG ASSAULT//MURDER",
-    "City":"Carrollton",
-    "County":"Dallas",
-    "Address":"027xx MCKINNEYAVE",
-    "Direction":"",
-    "Zip Code":75007
-    }
-  }
-        }
-  }
-]
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.795879,
+               32.741481
+            ]
+         },
+         "properties": {
+            "FIELD1": 3,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "008xx BEACONST",
+            "Direction": "",
+            "Zip Code": 75203
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.684525,
+               32.702531
+            ]
+         },
+         "properties": {
+            "FIELD1": 5,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "004xx PLEASANTDR",
+            "Direction": "",
+            "Zip Code": 75217
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.811912,
+               32.928673
+            ]
+         },
+         "properties": {
+            "FIELD1": 337,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "13247 MONTFORTDR",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 363,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "080xx CEDARSPRINGSRD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 527,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "081xx STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 597,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "117xx FERGUSONRD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 611,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "100xx GLENRIOLN",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.759244,
+               32.778308
+            ]
+         },
+         "properties": {
+            "FIELD1": 645,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "3839 FITZHUGHAVE",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 651,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "030xx ROSSAVE",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 657,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "8750 AUTOBAHNDR",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 664,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "15534 ELESTADODR",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 666,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "1300 ZANGBLVD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 669,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "1818 FIRSTAVE",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.771791,
+               32.978341
+            ]
+         },
+         "properties": {
+            "FIELD1": 670,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "7517 CAMPBELLRD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 695,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "17811 VAILST",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 716,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "4543 CATINALN",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 745,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "2810 SAMUELLBLVD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 792,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "014xx MAINST",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 794,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "8787 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 818,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "8060 PARKLN",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 836,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "13350 DALLASNORTHPKW",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 858,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "1300 ROBERTBCULLUMB",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 865,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "8150 CENTRALEXPWY",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 866,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "2230 LBJFRWY",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 877,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "045Withheld TRINITYMILLSRD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 882,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "2508 MAPLEAVE",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 968,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "027xx MLKINGJRBLVD",
+            "Direction": "",
+            "Zip Code": 75001
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.777626,
+               32.767268
+            ]
+         },
+         "properties": {
+            "FIELD1": 969,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "3102 OAKLAWNAVE",
+            "Direction": "",
+            "Zip Code": 75011
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.80334,
+               32.946819
+            ]
+         },
+         "properties": {
+            "FIELD1": 1033,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "039xx CEDARSPRINGSRD",
+            "Direction": "",
+            "Zip Code": 75254
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.784083,
+               32.836406
+            ]
+         },
+         "properties": {
+            "FIELD1": 1038,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "3230 MOCKINGBIRDLN",
+            "Direction": "",
+            "Zip Code": 75254
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 1040,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "026xx MCKINNEYAVE",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.82917,
+               32.96179
+            ]
+         },
+         "properties": {
+            "FIELD1": 1044,
+            "Offense Description": "THEFT",
+            "City": "Addison",
+            "County": "Dallas",
+            "Address": "1359 WALTONWALKERBL",
+            "Direction": "",
+            "Zip Code": 75254
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.684525,
+               32.702531
+            ]
+         },
+         "properties": {
+            "FIELD1": 1829,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "9633 OLDSEAGOVILLE",
+            "Direction": "",
+            "Zip Code": 75217
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1830,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "029xx HOLMESST",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1831,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "013xx SLEEPYHOLLOWDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1832,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "111xx LAKEHIGHLANDSD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1839,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "033xx PLEASANTDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1845,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "004xx MASTERSDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1849,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "108xx ELAMRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1850,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "1331 JIMMILLERRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1853,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "046xx STFRANCISAVE",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1855,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "2527 ANZIODR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1859,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "6300 LAKEJUNERD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.651594,
+               32.70296
+            ]
+         },
+         "properties": {
+            "FIELD1": 1862,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "10014 EVERTONPL",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1865,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "034xx FROSTYTR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1872,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "13953 CFHAWNFRWY",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1882,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "7767 GREATTRINITYFO",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.622984,
+               32.734288
+            ]
+         },
+         "properties": {
+            "FIELD1": 1885,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "LAKEJUNE MASTERS",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1886,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "101xx LAKEJUNERD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1888,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "650 HOLCOMBRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1895,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "031xx EASTERAVE",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.564919,
+               32.727857
+            ]
+         },
+         "properties": {
+            "FIELD1": 1896,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "143xx SKYFROSTDR",
+            "Direction": "",
+            "Zip Code": 75181
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -95.383966,
+               30.062169
+            ]
+         },
+         "properties": {
+            "FIELD1": 1901,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "130xx JUPITERRD",
+            "Direction": "",
+            "Zip Code": 75181
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -95.383966,
+               30.062169
+            ]
+         },
+         "properties": {
+            "FIELD1": 1902,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "803 RAYENELLAVE",
+            "Direction": "",
+            "Zip Code": 75181
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -95.013569,
+               29.62579
+            ]
+         },
+         "properties": {
+            "FIELD1": 1903,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "3109 CARLISLEST",
+            "Direction": "",
+            "Zip Code": 75181
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.630277,
+               32.817309
+            ]
+         },
+         "properties": {
+            "FIELD1": 1909,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "034xx BUCKNERBLVD",
+            "Direction": "",
+            "Zip Code": 75150
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1913,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "032xx WILBARGERDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1915,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "1825 CALIFORNIACROS",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.805369,
+               32.958351
+            ]
+         },
+         "properties": {
+            "FIELD1": 1918,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "15301 PRESTONRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.942614,
+               32.953097
+            ]
+         },
+         "properties": {
+            "FIELD1": 1923,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "1780 BELTLINERD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1925,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "016xx MASTERSDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1934,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "005xx CHEYENNERD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1935,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "2263 NANTUCKETVILLA",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1936,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "100xx LBJFRWY",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1937,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "7109 MILITARYPKWY",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1940,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "9540 LAKEJUNERD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1949,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "097xx ROYCEDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1950,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "075xx WESTMORELANDRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1953,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "10326 FINNELLST",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1959,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "094xx HOMEPLACEDR",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1961,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "069xx COCKRELLHILLRD",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.615271,
+               32.721225
+            ]
+         },
+         "properties": {
+            "FIELD1": 1979,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "059xx LAMARST",
+            "Direction": "",
+            "Zip Code": 75180
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.684525,
+               32.702531
+            ]
+         },
+         "properties": {
+            "FIELD1": 1994,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "2900 BUCKNERBLVD",
+            "Direction": "",
+            "Zip Code": 75217
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.703785,
+               32.79488
+            ]
+         },
+         "properties": {
+            "FIELD1": 1999,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "8035 RLTHORNTONFRWY",
+            "Direction": "",
+            "Zip Code": 75228
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.60847,
+               32.672132
+            ]
+         },
+         "properties": {
+            "FIELD1": 2000,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "002xx MARKETST",
+            "Direction": "",
+            "Zip Code": 75253
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -95.383966,
+               30.062169
+            ]
+         },
+         "properties": {
+            "FIELD1": 2008,
+            "Offense Description": "THEFT",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "2400 DOWDYFERRYRD",
+            "Direction": "",
+            "Zip Code": 75253
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -95.383966,
+               30.062169
+            ]
+         },
+         "properties": {
+            "FIELD1": 2009,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Balch Springs",
+            "County": "Dallas",
+            "Address": "007xx MARSALISAVE",
+            "Direction": "",
+            "Zip Code": 75253
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2184,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "078xx CLODUSFIELDSDR",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2188,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "107xx SPANGLERRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2191,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "704 WALTONWALKERBL",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2194,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "4500 COLUMBIAAVE",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.785643,
+               32.818971
+            ]
+         },
+         "properties": {
+            "FIELD1": 2208,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "5118 PERSHINGST",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2209,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "028xx ROYALLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2216,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "1700 SYLVANAVE",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2224,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2200 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.799219,
+               32.998886
+            ]
+         },
+         "properties": {
+            "FIELD1": 2225,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "18101 PRESTONRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2228,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "069xx FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2230,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3142 ROYALGABLEDR",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.852389,
+               33.002363
+            ]
+         },
+         "properties": {
+            "FIELD1": 2240,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3600 TIMBERGLENRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2241,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "10409 SANDENDR",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2244,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "304 RECORDST",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87927,
+               33.035217
+            ]
+         },
+         "properties": {
+            "FIELD1": 2246,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "11529 EMERALDST",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2254,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "001xx NINTHST",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2257,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "025xx MAPLEAVE",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2258,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2170 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2262,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "8430 ABRAMSRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2264,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "115xx KLEBERGRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2269,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3344 FORESTLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2271,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "180xx MARSHLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2277,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "078xx MCCALLUMBLVD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2278,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "9301 FORESTLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2287,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "10106 TECHNOLOGYBLVD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2290,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2903 ROYALLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2292,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "10625 HARRYHINESBLVD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2295,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "122xx PLANORD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2296,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2201 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2311,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "019xx MEDICALDISTRIC",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2313,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "8190 PARKLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2316,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "13419 KITLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2326,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "002xx PEMBERTONHILLR",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2342,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "180xx MARSHLN",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2347,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3565 FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2348,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "027xx MCKINNEYAVE",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2349,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "025xx FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2350,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3565 FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2351,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "105xx WIREWAY",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2353,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "074xx GREENVILLEAVE",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2354,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "142xx DALLASNORTHPKW",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2360,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "189xx MARSHLN",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2365,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "11227 GOODNIGHTLN",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2369,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "025Withheld FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.872904,
+               32.644554
+            ]
+         },
+         "properties": {
+            "FIELD1": 2371,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "8410 WESTMORELANDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2375,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2728 HOODST",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2384,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2701 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2385,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "025xx FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2386,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "1400 LAMARST",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2387,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "1400 LAMARST",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2390,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "11240 GRADERST",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2399,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "15110 DALLASNORTHPKW",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2400,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "18121 MARSHLN",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.888947,
+               32.993981
+            ]
+         },
+         "properties": {
+            "FIELD1": 2403,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "5025 AMESBURYDR",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2404,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "183xx DALLASNORTHPKW",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.846152,
+               32.998118
+            ]
+         },
+         "properties": {
+            "FIELD1": 2410,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3939 FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2411,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3440 ROSEMEADEPKWY",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.854099,
+               32.995871
+            ]
+         },
+         "properties": {
+            "FIELD1": 2413,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3632 FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2419,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "039xx INVESTORDR",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2424,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2334 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2427,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2460 WALNUTHILLLN",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2432,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3565 FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2436,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "026xx NORTHAVENRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2443,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "18959 LINAST",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2444,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3812 ARANSASST",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2452,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "046xx MALCOLMXBLVD",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.820636,
+               33.008002
+            ]
+         },
+         "properties": {
+            "FIELD1": 2454,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "4909 HAVERWOODLN",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2455,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2200 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2457,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2237 PINEST",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2458,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2706 ELMST",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2460,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "116xx HARRYHINESBLVD",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2462,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "053xx BENTTREEFOREST",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.800038,
+               32.708878
+            ]
+         },
+         "properties": {
+            "FIELD1": 2463,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3200 LANCASTERRD",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2467,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "078xx MCCALLUMBLVD",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2469,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "050xx PEARRIDGEDR",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -97.061017,
+               33.081367
+            ]
+         },
+         "properties": {
+            "FIELD1": 2477,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "114Withheld SUMMERTREELN",
+            "Direction": "",
+            "Zip Code": 75077
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.771528,
+               32.833881
+            ]
+         },
+         "properties": {
+            "FIELD1": 2479,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "179xx KELLYBLVD",
+            "Direction": "",
+            "Zip Code": 75206
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -94.783493,
+               32.51121
+            ]
+         },
+         "properties": {
+            "FIELD1": 2486,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "2825 HARWOODST",
+            "Direction": "",
+            "Zip Code": 75607
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2501,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "189xx LINAST",
+            "Direction": "",
+            "Zip Code": 75607
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2504,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "099xx HARRYHINESBLVD",
+            "Direction": "",
+            "Zip Code": 75607
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2507,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "121xx ABRAMSRD",
+            "Direction": "",
+            "Zip Code": 75607
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2510,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "002xx COMSTOCKST",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2512,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "095xx FORESTLN",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2523,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "177xx PRESTONRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2525,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "3434 ILLINOISAVE",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2527,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "058xx PRESTONOAKSRD",
+            "Direction": "",
+            "Zip Code": 75006
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2536,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "026xx FRANKFORDRD",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.895893,
+               33.007436
+            ]
+         },
+         "properties": {
+            "FIELD1": 2537,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "035xx LAPLAYADR",
+            "Direction": "",
+            "Zip Code": 75007
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2538,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "078xx CLODUSFIELDSDR",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.87454,
+               33.050164
+            ]
+         },
+         "properties": {
+            "FIELD1": 2539,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "026xx LOMBARDYLN",
+            "Direction": "",
+            "Zip Code": 75010
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.736637,
+               32.912633
+            ]
+         },
+         "properties": {
+            "FIELD1": 2542,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "030xx BUCKNERBLVD",
+            "Direction": "",
+            "Zip Code": 75243
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2547,
+            "Offense Description": "THEFT",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "1054 SHADYSIDELN",
+            "Direction": "",
+            "Zip Code": 75243
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.89817,
+               32.962473
+            ]
+         },
+         "properties": {
+            "FIELD1": 2549,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Carrollton",
+            "County": "Dallas",
+            "Address": "12920 AUDELIARD",
+            "Direction": "",
+            "Zip Code": 75243
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2554,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "026xx MLKINGJRBLVD",
+            "Direction": "",
+            "Zip Code": 75200
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -93.24239,
+               32.53682
+            ]
+         },
+         "properties": {
+            "FIELD1": 2556,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2340 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 71024
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2559,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "024Withheld SCOTLANDDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2560,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "042xx CAMPWISDOMRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.690329,
+               32.756962
+            ]
+         },
+         "properties": {
+            "FIELD1": 2563,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "7600 PIEDMONTDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2568,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "017xx COCKRELLHILLRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2569,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "013xx KIESTBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2573,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "013xx KIESTBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2575,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "041xx INDEPENDENCEDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2577,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "033xx GRANDAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2580,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "071xx COCKRELLHILLRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.765711,
+               32.654865
+            ]
+         },
+         "properties": {
+            "FIELD1": 2592,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "3215 SPIKERUSHCT",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2596,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "033xx POTTERSHOUSEWY",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2601,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "5225 VERDEVALLEYLN",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2607,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "059xx RLTHORNTONFRWY",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2608,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "078Withheld SAMUELLBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2615,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "600 AKARDST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2617,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "410 ELMOREAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2619,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "8550 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.791838,
+               32.882084
+            ]
+         },
+         "properties": {
+            "FIELD1": 2626,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "6600 ABERDEENAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2627,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "9901 SCYENERD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2629,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "703 MCKINNEYAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2630,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "002xx CAMPWISDOMRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.813655,
+               32.712488
+            ]
+         },
+         "properties": {
+            "FIELD1": 2634,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2819 MARYLANDAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2639,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "008xx MORRELLAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2644,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "036xx BONNIEVIEWRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2650,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "005xx COLDTOWNLN",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2653,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "700 HARWOODST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2655,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "533 KIESTBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.945274,
+               32.812185
+            ]
+         },
+         "properties": {
+            "FIELD1": 2658,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "213 JEFFERSONBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2659,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1363 MORRELLAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2661,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2324 VERNONAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2665,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "020xx LAMARST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2671,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "900 MAINST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2672,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "045xx CENTRALEXPWY",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2675,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "15770 DALLASNORTHPKW",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2676,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "9613 CLARKRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2679,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "066xx CEDARRIDGEDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2686,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2301 FLORAST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2690,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "054xx PARRYAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2693,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "3041 WALTONWALKERBL",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2697,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "079xx KANSASAV",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2699,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "005xx MAYRANTDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2702,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "004xx WESTMORELANDRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2704,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1000 WALTONWALKERBL",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2708,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2516 CLUBTERRACEDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2716,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "6924 CEDARFORESTTR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.80444,
+               32.51764
+            ]
+         },
+         "properties": {
+            "FIELD1": 2719,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "085xx EDENVALLEYLN",
+            "Direction": "",
+            "Zip Code": 75154
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.76587,
+               32.75368
+            ]
+         },
+         "properties": {
+            "FIELD1": 2722,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2622 ERVAYST",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2728,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1528 BUCKNERBLVD",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2729,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "145xx MONTFORTDR",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2730,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "085xx WILLOUGHBYBLVD",
+            "Direction": "",
+            "Zip Code": 75613
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.812936,
+               32.927911
+            ]
+         },
+         "properties": {
+            "FIELD1": 2732,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "13131 MONTFORTDR",
+            "Direction": "",
+            "Zip Code": 78613
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.768206,
+               32.762127
+            ]
+         },
+         "properties": {
+            "FIELD1": 2735,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "3500 PONDROMST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2740,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "025xx TEALMONTTRL",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2744,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1935 MEDICALDISTRIC",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2745,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "3400 REEDLN",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2753,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "7435 CONCORDIA",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2754,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "4630 EXCHANGESERVIC",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2756,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1400 LAMARST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2757,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2300 MLKINGJRBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.688345,
+               32.775316
+            ]
+         },
+         "properties": {
+            "FIELD1": 2762,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "4333 SCOTTSDALEST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2765,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "4515 VILLAGEFAIRPL",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.867339,
+               32.647429
+            ]
+         },
+         "properties": {
+            "FIELD1": 2774,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "2900 WHEATLANDRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2776,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "013xx KIESTBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2778,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "020xx NOMASST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2782,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1949 STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.882303,
+               32.664432
+            ]
+         },
+         "properties": {
+            "FIELD1": 2783,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "6901 WESTMORELANDRD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2790,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "072xx CLOVERGLENDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.766675,
+               32.696318
+            ]
+         },
+         "properties": {
+            "FIELD1": 2794,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "3103 LEDBETTERDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2795,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "025xx OAKLAWNAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2796,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "046xx COUNTRYCREEKDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2803,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "028xx 11THST",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2807,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "4312 WOODHOLLOWDR",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2809,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1900 MLKINGJRBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.964675,
+               32.580181
+            ]
+         },
+         "properties": {
+            "FIELD1": 2812,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "053xx SAMUELLBLVD",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.771269,
+               32.812711
+            ]
+         },
+         "properties": {
+            "FIELD1": 2818,
+            "Offense Description": "THEFT",
+            "City": "Cedar Hill",
+            "County": "Dallas",
+            "Address": "1811 GREENVILLEAVE",
+            "Direction": "",
+            "Zip Code": 75104
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.907815,
+               32.736986
+            ]
+         },
+         "properties": {
+            "FIELD1": 2864,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cockrell Hill",
+            "County": "Dallas",
+            "Address": "038xx I30",
+            "Direction": "",
+            "Zip Code": 75211
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.907815,
+               32.736986
+            ]
+         },
+         "properties": {
+            "FIELD1": 2865,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Cockrell Hill",
+            "County": "Dallas",
+            "Address": "102xx TECHNOLOGYBLVD",
+            "Direction": "",
+            "Zip Code": 75211
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.573555,
+               32.620763
+            ]
+         },
+         "properties": {
+            "FIELD1": 2906,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Combine",
+            "County": "Dallas",
+            "Address": "4609 LEMMONAVE",
+            "Direction": "",
+            "Zip Code": 75159
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.573555,
+               32.620763
+            ]
+         },
+         "properties": {
+            "FIELD1": 2907,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Combine",
+            "County": "Dallas",
+            "Address": "007xx BISHOPAVE",
+            "Direction": "",
+            "Zip Code": 75159
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.573555,
+               32.620763
+            ]
+         },
+         "properties": {
+            "FIELD1": 2908,
+            "Offense Description": "THEFT",
+            "City": "Combine",
+            "County": "Dallas",
+            "Address": "116 MASTERSDR",
+            "Direction": "",
+            "Zip Code": 75159
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.573555,
+               32.620763
+            ]
+         },
+         "properties": {
+            "FIELD1": 2910,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Combine",
+            "County": "Dallas",
+            "Address": "024xx COMMERCEST",
+            "Direction": "",
+            "Zip Code": 75159
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -99.281824,
+               31.434703
+            ]
+         },
+         "properties": {
+            "FIELD1": 2916,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Combine",
+            "County": "Dallas",
+            "Address": "044xx MCKINNEYAVE",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2951,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "3000 OAKLAWNAVE",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2954,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "031Withheld MCKINNEYAVE",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2960,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "2270 MANANADR",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2961,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "009xx BANKST",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2964,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "16910 DALLASPKWY",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2965,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "2508 MAPLEAVE",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2967,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "186xx MARSHLN",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.868494,
+               32.648554
+            ]
+         },
+         "properties": {
+            "FIELD1": 2970,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "2901 WHEATLANDRD",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2975,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "2515 CLEARVIEWCIR",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2977,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "11377 HARRYHINESBLVD",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2980,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "1120 SECURITYDR",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2982,
+            "Offense Description": "THEFT",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "1717 AKARDST",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.984664,
+               32.963417
+            ]
+         },
+         "properties": {
+            "FIELD1": 2988,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Coppell",
+            "County": "Dallas",
+            "Address": "9009 BRUTONRD",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.776388,
+               32.837714
+            ]
+         },
+         "properties": {
+            "FIELD1": 3052,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "5331 MOCKINGBIRDLN",
+            "Direction": "",
+            "Zip Code": 75019
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3053,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "033xx WEBBCHAPELEXT",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.825474,
+               32.84831
+            ]
+         },
+         "properties": {
+            "FIELD1": 3064,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "4142 CEDARSPRINGSRD",
+            "Direction": "",
+            "Zip Code": 75209
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.907815,
+               32.736986
+            ]
+         },
+         "properties": {
+            "FIELD1": 3065,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "9410 WEBBSCHAPELRD",
+            "Direction": "",
+            "Zip Code": 75211
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.820721,
+               32.786356
+            ]
+         },
+         "properties": {
+            "FIELD1": 3066,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "119 PITTSBURGST",
+            "Direction": "",
+            "Zip Code": 75212
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.812903,
+               32.811847
+            ]
+         },
+         "properties": {
+            "FIELD1": 3075,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "2519 OAKLAWNAVE",
+            "Direction": "",
+            "Zip Code": 75219
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.812903,
+               32.811847
+            ]
+         },
+         "properties": {
+            "FIELD1": 3076,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "4239 LEMMONAVE",
+            "Direction": "",
+            "Zip Code": 75219
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3080,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "2750 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3081,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "10931 INDIANTR",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3084,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "2370 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.816179,
+               32.792913
+            ]
+         },
+         "properties": {
+            "FIELD1": 3091,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "1531 INSPIRATIONDR",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3094,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3701 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3103,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "2380 NORTHWESTHWY",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3104,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "5030 LEMMONAVE",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3109,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3045 PARKLN",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3110,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3235 LOMBARDYLN",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.876118,
+               32.868529
+            ]
+         },
+         "properties": {
+            "FIELD1": 3112,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "9751 WEBBSCHAPELRD",
+            "Direction": "",
+            "Zip Code": 75220
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.864339,
+               32.893295
+            ]
+         },
+         "properties": {
+            "FIELD1": 3117,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "11259 GOODNIGHTLN",
+            "Direction": "",
+            "Zip Code": 75229
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.790329,
+               32.781179
+            ]
+         },
+         "properties": {
+            "FIELD1": 3126,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "021xx KIRBYST",
+            "Direction": "",
+            "Zip Code": 75201
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.76587,
+               32.75368
+            ]
+         },
+         "properties": {
+            "FIELD1": 3132,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "027xx MACONST",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.684525,
+               32.702531
+            ]
+         },
+         "properties": {
+            "FIELD1": 3135,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "075xx ROSEMONTRD",
+            "Direction": "",
+            "Zip Code": 75217
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.685609,
+               32.773128
+            ]
+         },
+         "properties": {
+            "FIELD1": 3138,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "045xx LELANDAVE",
+            "Direction": "",
+            "Zip Code": 75227
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.745111,
+               32.865737
+            ]
+         },
+         "properties": {
+            "FIELD1": 3140,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "6419 SKILLMANST",
+            "Direction": "",
+            "Zip Code": 75231
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.740103,
+               32.880025
+            ]
+         },
+         "properties": {
+            "FIELD1": 3141,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "6185 RETAILRD",
+            "Direction": "",
+            "Zip Code": 75231
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.840948,
+               32.660862
+            ]
+         },
+         "properties": {
+            "FIELD1": 3142,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "003xx SIXTHST",
+            "Direction": "",
+            "Zip Code": 75232
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.787496,
+               32.930338
+            ]
+         },
+         "properties": {
+            "FIELD1": 3144,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "13375 NOELRD",
+            "Direction": "",
+            "Zip Code": 75240
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.736637,
+               32.912633
+            ]
+         },
+         "properties": {
+            "FIELD1": 3146,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "090xx VANTAGEPOINTDR",
+            "Direction": "",
+            "Zip Code": 75243
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.788213,
+               32.997373
+            ]
+         },
+         "properties": {
+            "FIELD1": 3148,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "16731 COITRD",
+            "Direction": "",
+            "Zip Code": 75252
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.750478,
+               32.769479
+            ]
+         },
+         "properties": {
+            "FIELD1": 3152,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "018xx JACKSONST",
+            "Direction": "",
+            "Zip Code": 75210
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.750478,
+               32.769479
+            ]
+         },
+         "properties": {
+            "FIELD1": 3153,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "5645 EMROSETER",
+            "Direction": "",
+            "Zip Code": 75210
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.907815,
+               32.736986
+            ]
+         },
+         "properties": {
+            "FIELD1": 3157,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "4529 GOLDRD",
+            "Direction": "",
+            "Zip Code": 75211
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.878831,
+               32.781246
+            ]
+         },
+         "properties": {
+            "FIELD1": 3159,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "6015 STATELYCT",
+            "Direction": "",
+            "Zip Code": 75212
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.76587,
+               32.75368
+            ]
+         },
+         "properties": {
+            "FIELD1": 3161,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3710 SPENCEST",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.849082,
+               32.832614
+            ]
+         },
+         "properties": {
+            "FIELD1": 3171,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "1201 OAKLAWNAVE",
+            "Direction": "",
+            "Zip Code": 75235
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.872603,
+               32.649403
+            ]
+         },
+         "properties": {
+            "FIELD1": 3172,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3155 WHEATLANDRD",
+            "Direction": "",
+            "Zip Code": 75237
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.787496,
+               32.930338
+            ]
+         },
+         "properties": {
+            "FIELD1": 3173,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "133xx EMILYRD",
+            "Direction": "",
+            "Zip Code": 75240
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.946045,
+               32.647046
+            ]
+         },
+         "properties": {
+            "FIELD1": 3178,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "7075 WHEATLANDRD",
+            "Direction": "",
+            "Zip Code": 75249
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.788213,
+               32.997373
+            ]
+         },
+         "properties": {
+            "FIELD1": 3179,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "022xx STEMMONSFRWY",
+            "Direction": "",
+            "Zip Code": 75252
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.841688,
+               32.999309
+            ]
+         },
+         "properties": {
+            "FIELD1": 3182,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "3440 ROSEMEADEPKWY",
+            "Direction": "",
+            "Zip Code": 75287
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.878831,
+               32.781246
+            ]
+         },
+         "properties": {
+            "FIELD1": 3193,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "032xx HAMPTONRD",
+            "Direction": "",
+            "Zip Code": 75212
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.76587,
+               32.75368
+            ]
+         },
+         "properties": {
+            "FIELD1": 3195,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "030xx PARKROWAVE",
+            "Direction": "",
+            "Zip Code": 75215
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.684525,
+               32.702531
+            ]
+         },
+         "properties": {
+            "FIELD1": 3200,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "9105 CFHAWNFRWY",
+            "Direction": "",
+            "Zip Code": 75217
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.740103,
+               32.880025
+            ]
+         },
+         "properties": {
+            "FIELD1": 3207,
+            "Offense Description": "AGG ASSAULT//MURDER",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "094Withheld ROYALLN",
+            "Direction": "",
+            "Zip Code": 75231
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.748425,
+               32.915054
+            ]
+         },
+         "properties": {
+            "FIELD1": 3212,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "9001 MARKVILLEDR",
+            "Direction": "",
+            "Zip Code": 75243
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [
+               -96.60847,
+               32.672132
+            ]
+         },
+         "properties": {
+            "FIELD1": 3213,
+            "Offense Description": "THEFT",
+            "City": "Dallas",
+            "County": "Dallas",
+            "Address": "5725 MERCEDESAVE",
+            "Direction": "",
+            "Zip Code": 75253
+         }
+      }
+   ]
 }
