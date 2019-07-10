@@ -1,5 +1,5 @@
 // Store our API endpoint inside queryUrl
-var queryUrl = "zillow.geojson"
+var queryUrl = ""../static/data/zillow.geojson"
 var queryUrl1 = "crime.geojson"
 // Perform a GET request to the query URL
 d3.json(queryUrl, function(data) {
